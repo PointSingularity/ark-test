@@ -2,7 +2,7 @@ import { scope, type } from 'arktype';
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 //@ts-ignore
-import { Path } from 'arktype/internal/utils/paths';
+import { Path } from 'arktype/internal/utils/paths.js';
 
 /**
  * Schema:
