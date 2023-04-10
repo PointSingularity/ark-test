@@ -29,6 +29,7 @@
     "typescript": "~4.9.5"
   },
   "dependencies": {
+    "arktype": "^1.0.11-alpha",
     "axios": "^1.0.0",
     "tslib": "^2.3.0"
   }
